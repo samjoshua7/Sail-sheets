@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784922636083",
+    "project_id": "sail-sheets",
+    "storage_bucket": "sail-sheets.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784922636083:android:f7d5a8c2f7d42595f2d846",
+        "android_client_info": {
+          "package_name": "com.blazingpirates.sailsheets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADytx_UFl7NKu1M_7hLMnVadXL8aKbnY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
