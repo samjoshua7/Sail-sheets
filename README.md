@@ -7,6 +7,8 @@ allows users to manage daily tasks and homework assignments in an
 organized way --- similar to Google Classroom but more lightweight and
 fun.
 
+![App Broucher](https://github.com/samjoshua7/Sail-sheets/blob/main/Sail%20Sheets%20Promo%20Broucher.png?raw=true)
+
 ------------------------------------------------------------------------
 
 ## 🚀 Project Overview
@@ -20,6 +22,8 @@ days and view tasks.
 
 This app aims to provide a simple and engaging way to **stay on track
 with studies and tasks**.
+
+![App Broucher](https://github.com/samjoshua7/Sail-sheets/blob/main/Sail%20Sheets%20Launcher.png?raw=true)
 
 ------------------------------------------------------------------------
 
